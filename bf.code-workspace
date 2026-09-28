@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../Downloads/bone/Bone_Fracture_Binary_Classification/Bone_Fracture_Binary_Classification/val"
+		},
+		{
+			"path": "../../../../../Downloads/bone/Bone_Fracture_Binary_Classification/Bone_Fracture_Binary_Classification/train"
+		},
+		{
+			"path": "../../../../../Downloads/bone/Bone_Fracture_Binary_Classification/Bone_Fracture_Binary_Classification/test"
+		}
+	]
+}
