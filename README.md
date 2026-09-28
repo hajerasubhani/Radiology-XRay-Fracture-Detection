@@ -113,7 +113,8 @@ Add screenshots of your Streamlit application here.
 
 Example:
 
-![Application Screenshot](screenshots/app.png)
+![Application Screenshot]
+
 ⚠️ Disclaimer
 
 This project is intended for educational and demonstration purposes only. The model output should not be considered a medical diagnosis or used as a substitute for evaluation by a qualified healthcare professional.
